@@ -1,5 +1,7 @@
 # 🚗 Simple ABS Model Simulation
 
+![Project Status](https://img.shields.io/badge/Status-Completed-green)
+
 % Author: Dinesh Kumar Rajakumaran
 % Date: October 10, 2025
 % Description: Simple ABS model simulation towards different braking forces 
